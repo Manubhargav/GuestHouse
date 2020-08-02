@@ -1,2 +1,2 @@
 # GuestHouse
-Infy Guest house app 
+Guest house booking app 
